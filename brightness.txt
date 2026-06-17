@@ -1,0 +1,6 @@
+print("Start")
+
+def brightness():
+    print("Brightness Detection")
+
+brightness()
