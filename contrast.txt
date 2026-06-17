@@ -1,0 +1,6 @@
+print("Start")
+
+def contrast():
+    print("Contrast Detection")
+
+contrast()
